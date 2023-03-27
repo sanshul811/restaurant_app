@@ -1,0 +1,28 @@
+.Display
+{
+    display: flex;
+        justify-content: center;
+}
+.card
+{
+    float: left;
+        width: 25%;
+    
+}
+.buttons_confirmation
+{
+    background-color: "black";
+    margin-right: 30px;
+}
+.place_order_button
+{
+    display: flex;
+    justify-content: center;
+    background-color: "black";
+   
+    width: 100%;
+}
+.btn btn-primary btn-sm
+{
+    margin: 100px;
+}
